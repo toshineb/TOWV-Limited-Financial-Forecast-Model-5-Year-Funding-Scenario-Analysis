@@ -1,0 +1,2 @@
+# TOWV-Limited-Financial-Forecast-Model-5-Year-Funding-Scenario-Analysis
+A professional Excel and Google Sheets financial forecasting model for TOWV Bootcamp Limited, a U.S.-based distributor. The model supports funding analysis through a 5-year forecast, including assumptions, scenarios, profit and loss, balance sheet, cash flow, financing schedules, FCFF analysis, ratios, and dashboard summaries.
