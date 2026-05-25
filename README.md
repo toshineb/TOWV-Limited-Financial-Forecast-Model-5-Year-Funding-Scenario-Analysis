@@ -56,7 +56,3 @@ This project was created as a financial modeling portfolio piece to demonstrate 
 ## Use Case
 
 This model can be used to evaluate the financial outlook of a distribution business seeking funding. It helps users understand projected profitability, funding requirements, debt repayment capacity, cash flow performance, and key financial metrics under different operating scenarios.
-
-## Disclaimer
-
-This model is for educational, portfolio, and demonstration purposes only. It should not be considered financial, investment, lending, or business advice.
